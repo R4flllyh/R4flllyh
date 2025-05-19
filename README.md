@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I’m Muhammad Rafly Hidayatullah 👋
+
+- 🌍 From Surabaya, Indonesia
+- 💻 Junior Developer | Flutter Developer | Frontend Developer
+- ⚡ Interested in Web Development & Flutter Development
+- 📫 Connect with me on Instagram: [@raflllyh](https://instagram.com/raflllyh)
+
+---
+
+**About Me:**
+
+I am passionate about building beautiful and responsive user interfaces using Flutter and modern web technologies. Always eager to learn new things and collaborate on exciting projects.
+
+Let's connect and create something awesome together!
 
 <!--
-**R4flllyh/R4flllyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**R4flllyh/R4flllyh** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

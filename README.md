@@ -3,8 +3,11 @@
 </h1>
 
 <p align="center">
-  <b>Junior Developer | Flutter Developer | Frontend Developer | Web Development</b><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0B8AFF&center=true&vCenter=true&width=420&lines=Welcome+to+my+GitHub+Profile;Passionate+about+Flutter%2C+Laravel+%26+Web+Development;Let%E2%80%99s+build+amazing+things+together!" alt="Typing SVG" />
+  <b>Junior Developer | Flutter & Laravel Enthusiast | UI/UX Learner</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0B8AFF&center=true&vCenter=true&width=380&lines=Code+with+passion%2C+build+with+purpose." alt="Motto Typing Animation" />
 </p>
 
 <p align="center">
@@ -17,20 +20,22 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Rafly, a junior developer based in Surabaya, Indonesia. I specialize in Flutter, Laravel, and modern frontend technologies, with a strong enthusiasm for building efficient and visually appealing applications. I'm always eager to learn, collaborate, and contribute to impactful projects.
+Hi! I'm Rafly, a passionate junior developer based in Surabaya, Indonesia. I love building web and mobile apps with Flutter & Laravel, designing with Tailwind, and learning UI/UX using Figma. Always excited to collaborate and learn something new!
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<div align="left">
+
   <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Filament-3B82F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI2Ii8+PC9zdmc+" alt="Filament" />
-</p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
 
 ---
 

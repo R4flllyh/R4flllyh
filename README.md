@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0B8AFF&center=true&vCenter=true&width=380&lines=Code+with+passion%2C+build+with+purpose." alt="Motto Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0B8AFF&center=true&vCenter=true&width=380&lines=Code+with+passion" alt="Motto Typing Animation" />
 </p>
 
 <p align="center">

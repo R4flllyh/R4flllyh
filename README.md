@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Junior Developer | Flutter Developer | Frontend Developer</b><br>
+  <b>Junior Developer | Flutter Developer | Frontend Developer | Web Development</b><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0B8AFF&center=true&vCenter=true&width=420&lines=Welcome+to+my+GitHub+Profile;Passionate+about+Flutter%2C+Laravel+%26+Web+Development;Let%E2%80%99s+build+amazing+things+together!" alt="Typing SVG" />
 </p>
 

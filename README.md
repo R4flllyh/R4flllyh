@@ -26,19 +26,9 @@ Hi! I'm Rafly, a passionate junior developer based in Surabaya, Indonesia. I lov
 
 ## 🛠 Tech Stack
 
-<div align="left">
+<div align="center">
 
-  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,laravel,figma,git,github,flutter,dart,supabase,firebase" />
 
 </div>
 
@@ -54,5 +44,5 @@ Hi! I'm Rafly, a passionate junior developer based in Surabaya, Indonesia. I lov
 ---
 
 <p align="center">
-  <b>Open to collaboration and new opportunities. Let’s connect!</b>
+  <b>Thanks for visiting my github profiles, Let’s connect!</b>
 </p>
